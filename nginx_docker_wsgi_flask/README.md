@@ -14,3 +14,6 @@ ex.
 ```
 nginx -g "daemon off; &"
 ```
+
+## Reference
+https://www.magata.net/memo/index.php?Nginx%2Buwsgi%2BFlask%A4%F2docker%A4%C7%C6%B0%A4%AB%A4%B9
